@@ -1,0 +1,4 @@
+git config --global user.name Mohammed Zain
+git config --global user.email zainninja7@gmail.com
+git init
+git clone https://github.com/instinctone7/Assignment-4.git
